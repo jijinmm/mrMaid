@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1609131828854,
+  "timestamp": 1609136512181,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/4.d0602174d0217d353361.js",
+        "/4.be8d637af8e058f01285.js",
         "/favicon.ico",
         "/index.html",
         "/main.ab0eb2e53fdf3a0393bd.js",
         "/manifest.webmanifest",
         "/polyfills.67529686741e7cd312c0.js",
-        "/runtime.7ebb84a82efba2374307.js",
+        "/runtime.72b6d5a2f0ce72be3da3.js",
         "/scripts.77067138da0e6e5b1083.js",
-        "/styles.028f0d6d89be756fa8a3.css"
+        "/styles.ff2450c5fb48daf82a74.css"
       ],
       "patterns": []
     },
@@ -100,7 +100,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/4.d0602174d0217d353361.js": "8894af98df5267701593523e8bb24bacede32a8b",
+    "/4.be8d637af8e058f01285.js": "f468379be138cc83e76d2edcb7cb5e3104f77190",
     "/Poppins-Regular.8081832fc5cfbf634aa6.ttf": "01d319c533f62ea29f03b5df8adfd4d93d2d2a38",
     "/ajax-loader.fb6f3c230cb846e25247.gif": "7a1aa43614396382bb15e5fde574d9cdcd21698f",
     "/assets/1f9270c7-4380-44b0-ae82-64f2d077c7491593179101625dongliBoysMulticolouredPrintedRoundNeckT-shirt2.jpg": "1ddfcbfc704028a505d4db8f8a70f950d2dc3bbf",
@@ -161,17 +161,17 @@
     "/assets/slider/slider-2-bg.jpg": "23b2500c2517e1e5b3eee72fe2edfa0bf38b0ea7",
     "/assets/slider/slider-2.jpg": "53a6518fe6e7565be9c886be720271a1684738e3",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "09e20251fcf8aa2d42ce51e0b1f45217b9b1f07c",
+    "/index.html": "c3518fcb431ba4bc6640104e4cbcc811f864a41b",
     "/main.ab0eb2e53fdf3a0393bd.js": "5a343c2e5a58532ed483c77c5006534b4b4956fd",
     "/manifest.webmanifest": "9a088b7c4339228d1082e666ce105dc889bc180c",
     "/polyfills.67529686741e7cd312c0.js": "31976b8c2900bb2f1393a16f57ee1ada5db91394",
-    "/runtime.7ebb84a82efba2374307.js": "6f2a1ed0f3adfaac2a39710852561e601be631cd",
+    "/runtime.72b6d5a2f0ce72be3da3.js": "312f2ef5e13b0d550630b8f99728b872956fdf9d",
     "/scripts.77067138da0e6e5b1083.js": "79a840fdb746112598a460ec7fe1c307b80edf45",
     "/slick.2630a3e3eab21c607e21.svg": "17f63c6f6131389462ba3d814b7ddf83344705f9",
     "/slick.295183786cd8a1389865.woff": "af91c12f0f406a4f801aeb3b398768fe41d8f864",
     "/slick.a4e97f5a2a64f0ab1323.eot": "2dff0768f4c0a53228761eab917e2c65556042d4",
     "/slick.c94f7671dcc99dce43e2.ttf": "3331eebdd4ba348ef25abe00c39ffbe867d46575",
-    "/styles.028f0d6d89be756fa8a3.css": "6f78404c916d616d6a449fe4789109bcd9bc04db"
+    "/styles.ff2450c5fb48daf82a74.css": "e4a5eae74d25a9ca9648196981152c5a742fc798"
   },
   "navigationUrls": [
     {
