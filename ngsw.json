@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1609040551103,
+  "timestamp": 1609131828854,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/4.620ddc2cdce33a71f773.js",
+        "/4.d0602174d0217d353361.js",
         "/favicon.ico",
         "/index.html",
-        "/main.38027bc35257c66fe973.js",
+        "/main.ab0eb2e53fdf3a0393bd.js",
         "/manifest.webmanifest",
         "/polyfills.67529686741e7cd312c0.js",
-        "/runtime.9bf510fd6b40af153bfc.js",
+        "/runtime.7ebb84a82efba2374307.js",
         "/scripts.77067138da0e6e5b1083.js",
-        "/styles.b06e56df1c1eefe5790e.css"
+        "/styles.028f0d6d89be756fa8a3.css"
       ],
       "patterns": []
     },
@@ -81,6 +81,7 @@
         "/assets/images/products/VILLA1.jpg",
         "/assets/images/products/WhatsApp Image 2020-12-19 at 11.48.12 AM.jpeg",
         "/assets/logo.svg",
+        "/assets/slider/mobile-slide-1.jpg",
         "/assets/slider/slider-1.jpg",
         "/assets/slider/slider-2-1.png",
         "/assets/slider/slider-2-2.png",
@@ -99,7 +100,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/4.620ddc2cdce33a71f773.js": "dc4c22a0a17cb9be7a8111c8a0c0ca09e003924d",
+    "/4.d0602174d0217d353361.js": "8894af98df5267701593523e8bb24bacede32a8b",
     "/Poppins-Regular.8081832fc5cfbf634aa6.ttf": "01d319c533f62ea29f03b5df8adfd4d93d2d2a38",
     "/ajax-loader.fb6f3c230cb846e25247.gif": "7a1aa43614396382bb15e5fde574d9cdcd21698f",
     "/assets/1f9270c7-4380-44b0-ae82-64f2d077c7491593179101625dongliBoysMulticolouredPrintedRoundNeckT-shirt2.jpg": "1ddfcbfc704028a505d4db8f8a70f950d2dc3bbf",
@@ -150,6 +151,7 @@
     "/assets/images/products/VILLA1.jpg": "b57fc3dd137f3529e3f04c7102fc4353e730fb79",
     "/assets/images/products/WhatsApp Image 2020-12-19 at 11.48.12 AM.jpeg": "595c6489c261218ecf77deddafbd473d179cc709",
     "/assets/logo.svg": "1b8cc93bae597eedb1171b26be1d74da25982018",
+    "/assets/slider/mobile-slide-1.jpg": "d86869ff5dfed555aaba9534236506a09895dad2",
     "/assets/slider/slider-1.jpg": "85b6ebeae13d932afcb4fea7a458779a297c42ab",
     "/assets/slider/slider-2-1.png": "993630dc28ba0b4fa7ab3290cb3a221be63fb20c",
     "/assets/slider/slider-2-2.png": "b6bd7aa3afb6974798beea83bcf86692e5b88469",
@@ -159,17 +161,17 @@
     "/assets/slider/slider-2-bg.jpg": "23b2500c2517e1e5b3eee72fe2edfa0bf38b0ea7",
     "/assets/slider/slider-2.jpg": "53a6518fe6e7565be9c886be720271a1684738e3",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "dd5382787b5145281f4707e65ce3877d65f32d79",
-    "/main.38027bc35257c66fe973.js": "bf51bf00d2f4bfef37346bc3ec63da0308c0c9fe",
+    "/index.html": "09e20251fcf8aa2d42ce51e0b1f45217b9b1f07c",
+    "/main.ab0eb2e53fdf3a0393bd.js": "5a343c2e5a58532ed483c77c5006534b4b4956fd",
     "/manifest.webmanifest": "9a088b7c4339228d1082e666ce105dc889bc180c",
     "/polyfills.67529686741e7cd312c0.js": "31976b8c2900bb2f1393a16f57ee1ada5db91394",
-    "/runtime.9bf510fd6b40af153bfc.js": "7e2647f250378b2320dd30e9186f23ec8a2706c0",
+    "/runtime.7ebb84a82efba2374307.js": "6f2a1ed0f3adfaac2a39710852561e601be631cd",
     "/scripts.77067138da0e6e5b1083.js": "79a840fdb746112598a460ec7fe1c307b80edf45",
     "/slick.2630a3e3eab21c607e21.svg": "17f63c6f6131389462ba3d814b7ddf83344705f9",
     "/slick.295183786cd8a1389865.woff": "af91c12f0f406a4f801aeb3b398768fe41d8f864",
     "/slick.a4e97f5a2a64f0ab1323.eot": "2dff0768f4c0a53228761eab917e2c65556042d4",
     "/slick.c94f7671dcc99dce43e2.ttf": "3331eebdd4ba348ef25abe00c39ffbe867d46575",
-    "/styles.b06e56df1c1eefe5790e.css": "410d1dda81f78e8471da6bf4895c2df80af757c2"
+    "/styles.028f0d6d89be756fa8a3.css": "6f78404c916d616d6a449fe4789109bcd9bc04db"
   },
   "navigationUrls": [
     {
