@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1609136512181,
+  "timestamp": 1609137499002,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/4.be8d637af8e058f01285.js",
+        "/4.bcf0250be6ad86c59ab3.js",
         "/favicon.ico",
         "/index.html",
         "/main.ab0eb2e53fdf3a0393bd.js",
         "/manifest.webmanifest",
         "/polyfills.67529686741e7cd312c0.js",
-        "/runtime.72b6d5a2f0ce72be3da3.js",
+        "/runtime.5bc094094791fc5cf756.js",
         "/scripts.77067138da0e6e5b1083.js",
         "/styles.ff2450c5fb48daf82a74.css"
       ],
@@ -100,7 +100,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/4.be8d637af8e058f01285.js": "f468379be138cc83e76d2edcb7cb5e3104f77190",
+    "/4.bcf0250be6ad86c59ab3.js": "568d1f7a2cbc9c458b36d9e3e83dfb60e65ff008",
     "/Poppins-Regular.8081832fc5cfbf634aa6.ttf": "01d319c533f62ea29f03b5df8adfd4d93d2d2a38",
     "/ajax-loader.fb6f3c230cb846e25247.gif": "7a1aa43614396382bb15e5fde574d9cdcd21698f",
     "/assets/1f9270c7-4380-44b0-ae82-64f2d077c7491593179101625dongliBoysMulticolouredPrintedRoundNeckT-shirt2.jpg": "1ddfcbfc704028a505d4db8f8a70f950d2dc3bbf",
@@ -146,9 +146,9 @@
     "/assets/images/product-01.png": "391f86328c36e8401bdd4dfe2779ea5c0818822c",
     "/assets/images/products/1.png": "c050b830c916f0010df3bef3b09dc111e129056a",
     "/assets/images/products/ASRA-logo (1).pdf": "e06f4651541bf0ac0a7a281a9fb83583c8db7a66",
-    "/assets/images/products/ASRA_APARTMENTS.jpg": "4c92c9eaa49e0c8468edf43b08f9643a0f4ccb5a",
-    "/assets/images/products/VILLA.jpg": "85fe2abec3959225483f698773f504d25a867635",
-    "/assets/images/products/VILLA1.jpg": "b57fc3dd137f3529e3f04c7102fc4353e730fb79",
+    "/assets/images/products/ASRA_APARTMENTS.jpg": "33116e9d26367947769d892ea0b10e2ddc12b4ed",
+    "/assets/images/products/VILLA.jpg": "7dc09c513de513e49b6e77b422087cda04be2111",
+    "/assets/images/products/VILLA1.jpg": "9dda1a600816d77f3acc5e0f2299998e92ba34b7",
     "/assets/images/products/WhatsApp Image 2020-12-19 at 11.48.12 AM.jpeg": "595c6489c261218ecf77deddafbd473d179cc709",
     "/assets/logo.svg": "1b8cc93bae597eedb1171b26be1d74da25982018",
     "/assets/slider/mobile-slide-1.jpg": "d86869ff5dfed555aaba9534236506a09895dad2",
@@ -161,11 +161,11 @@
     "/assets/slider/slider-2-bg.jpg": "23b2500c2517e1e5b3eee72fe2edfa0bf38b0ea7",
     "/assets/slider/slider-2.jpg": "53a6518fe6e7565be9c886be720271a1684738e3",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "c3518fcb431ba4bc6640104e4cbcc811f864a41b",
+    "/index.html": "54720e971a99d94cf14ced711e605f2a37069088",
     "/main.ab0eb2e53fdf3a0393bd.js": "5a343c2e5a58532ed483c77c5006534b4b4956fd",
     "/manifest.webmanifest": "9a088b7c4339228d1082e666ce105dc889bc180c",
     "/polyfills.67529686741e7cd312c0.js": "31976b8c2900bb2f1393a16f57ee1ada5db91394",
-    "/runtime.72b6d5a2f0ce72be3da3.js": "312f2ef5e13b0d550630b8f99728b872956fdf9d",
+    "/runtime.5bc094094791fc5cf756.js": "70c3613cccf8597ae1dc671d4226a8a1b5eae81c",
     "/scripts.77067138da0e6e5b1083.js": "79a840fdb746112598a460ec7fe1c307b80edf45",
     "/slick.2630a3e3eab21c607e21.svg": "17f63c6f6131389462ba3d814b7ddf83344705f9",
     "/slick.295183786cd8a1389865.woff": "af91c12f0f406a4f801aeb3b398768fe41d8f864",
